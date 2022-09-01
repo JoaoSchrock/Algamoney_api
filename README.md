@@ -60,6 +60,17 @@ O JSON existe como uma string — útil quando você deseja transmitir dados por
 }
 ```
 
+## Spring Initializr
+
+![Captura da Web_1-9-2022_195522_start spring io](https://user-images.githubusercontent.com/101228590/188026103-8f384712-89cd-4f7e-b0a3-bcf920e8bb66.jpeg)
+
+```
+SPRING INITIALIZR fornece uma interface web bem simples para o usuário. Podendo gerar 
+seu projeto a partir de uma estrutura de configurações pré-moldadas. São configurações 
+de versões do java/spring boot, grupo/nome do projeto, série de lista de dependências e etc.
+
+```
+
 
 
 
