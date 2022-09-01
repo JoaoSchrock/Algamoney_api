@@ -47,10 +47,17 @@ Link do Site : https://designer.mocky.io/design
 
 ## JSON
 
-```
+```Java
 Mesmo que se assemelhe à sintaxe literal do objeto JavaScript, ele pode ser usado independentemente
 do JavaScript, e muitos ambientes de programação possuem a capacidade de ler (analisar) e gerar JSON
 O JSON existe como uma string — útil quando você deseja transmitir dados por uma rede.
+
+
+{
+    "nome": "João Schrock",
+    "idade": "17",
+    "Estado Civil": "Solteiro"
+}
 ```
 
 
