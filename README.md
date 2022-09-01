@@ -71,7 +71,11 @@ seu projeto a partir de uma estrutura de configurações pré-moldadas. São con
 de versões do java/spring boot, grupo/nome do projeto, série de lista de dependências e etc.
 
 ```
+## API
 
+![API_Infografico4](https://user-images.githubusercontent.com/101228590/188027174-b4dbe4f1-d8ff-4df6-ae4b-d3535aa9290b.png)
+ 
+![Captura da Web_1-9-2022_20818_www bing com](https://user-images.githubusercontent.com/101228590/188027337-566eaae5-60dd-4696-84f2-913384dfeeb1.jpeg)
 
 
 
