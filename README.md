@@ -95,5 +95,18 @@ O Web service efetua o processamento e envia os dados para a aplicação que req
  A aplicação recebe os dados e faz a sua interpretação, convertendo-os para a sua linguagem própria.
 
 ```
+<hr>
+
+<div align="center">
+
+### ` Canais Para Estudo`
+ <details><summary>🌐Canal</summary>
+       </p>
+
+- ### [Canal DevDojo](https://www.youtube.com/c/DevDojoBrasil/)
+
+</details>
+
+<hr>
 
 
