@@ -8,7 +8,7 @@
 
 ---
 ## PARA ESCREVER NO - resources (application.properties)
-```
+```json
 spring.jpa.database=MYSQL
 spring.datasource.url=jdbc:mysql://localhost/demo?createDatabaseIfNotExist=true&useSSL=false
 spring.datasource.username=root
@@ -21,7 +21,7 @@ spring.jackson.deserialization.fail-on-unknown-properties=true
 ```
 
 ## Criando Aluno - Resources - db.Migration
-```
+```Java
 CREATE TABLE aluno(
 codigo BIGINT(20) PRIMARY KEY AUTO_INCREMENT,
 nome VARCHAR(50) NOT NULL
