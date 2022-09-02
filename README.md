@@ -79,7 +79,16 @@ de versões do java/spring boot, grupo/nome do projeto, série de lista de depen
 
 
 
+## Web Service
+
+![a](https://user-images.githubusercontent.com/101228590/188031922-74ac883a-3134-4948-bb06-391f3ac93c56.jpg)
+```
+
+‎Um serviço web é um‎‎ método de comunicação entre dois dispositivos eletrônicos em uma rede‎‎. É uma função
+de software fornecida em um endereço de rede na Web com o serviço sempre ligado como no conceito de computação
+de utilidade. Muitas organizações usam vários sistemas de software para gerenciamento.‎
 
 
+```
 
 
