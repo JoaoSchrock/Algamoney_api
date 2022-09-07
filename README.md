@@ -110,3 +110,16 @@ O Web service efetua o processamento e envia os dados para a aplicação que req
 <hr>
 
 
+### ` EBOOK`
+ <details><summary>🌐Canal</summary>
+       </p>
+[101 RPA bots by ElectroNeek - volume 1(1).pdf](https://github.com/JoaoSchrock/Algamoney_api/files/9505966/101.RPA.bots.by.ElectroNeek.-.volume.1.1.pdf)
+
+
+</details>
+
+<hr>
+
+[101 RPA bots by ElectroNeek - volume 1(1).pdf](https://github.com/JoaoSchrock/Algamoney_api/files/9505966/101.RPA.bots.by.ElectroNeek.-.volume.1.1.pdf)
+
+
