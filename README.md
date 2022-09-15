@@ -123,3 +123,11 @@ O Web service efetua o processamento e envia os dados para a aplicação que req
 [101 RPA bots by ElectroNeek - volume 1(1).pdf](https://github.com/JoaoSchrock/Algamoney_api/files/9505966/101.RPA.bots.by.ElectroNeek.-.volume.1.1.pdf)
 
 
+## BR MODELO
+
+```
+A brModelo é uma ferramenta desktop voltada para o desenvolvimento de projeto de banco de dados
+relacionais, incluindo as etapas conceitual, lógico e físico, com ampla utilização na área de computação
+em todo o Brasil.
+
+```
