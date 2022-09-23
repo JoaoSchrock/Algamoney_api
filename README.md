@@ -137,3 +137,6 @@ em todo o Brasil.
 • = id_(nome da entidade)  "Identificador"
 ° = nome "Atributo"
 ```
+![diagrama](https://user-images.githubusercontent.com/101228590/192066455-06b5345c-1a7a-4eea-a838-cf168207b363.png)
+
+
