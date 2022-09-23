@@ -131,3 +131,9 @@ relacionais, incluindo as etapas conceitual, lógico e físico, com ampla utiliz
 em todo o Brasil.
 
 ```
+
+
+```
+• = id_(nome da entidade)  "Identificador"
+° = nome "Atributo"
+```
