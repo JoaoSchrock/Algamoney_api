@@ -137,6 +137,8 @@ em todo o Brasil.
 • = id_(nome da entidade)  "Identificador"
 ° = nome "Atributo"
 ```
-![diagrama](https://user-images.githubusercontent.com/101228590/192066455-06b5345c-1a7a-4eea-a838-cf168207b363.png)
+
+## Diagrama de Entidade Conceitual
+![Screenshot_1](https://user-images.githubusercontent.com/101228590/192066833-451aa09b-f08a-440d-9e26-a6de79c42716.png)
 
 
