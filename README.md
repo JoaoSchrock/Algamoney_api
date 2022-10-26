@@ -169,4 +169,26 @@ INSERT INTO companhia (companhiaid, companhiaNome) values ('1', 'Aeroporto');
 INSERT INTO piloto (pilotoid, pilotoNome) values ('1', 'Joao Schrock');
 ~~~
 
+# Comandos MySQL
+
+### Fazer Alterações quando Precisar
+~~~mysql
+ALTER TABLE pessoas add apelido varchar(255);
+~~~
+
+### Deleta apenas a tabela Apelido
+~~~mysql
+ALTER TABLE pessoas drop apelido;
+~~~
+
+### Insere um atributo na TABLE piloto
+~~~mysql
+INSERT INTO piloto (pilotoid, pilotoNome) values ('1', 'Joao Schrock');
+~~~
+
+### Deleta a pessoa que foi Selecionada(Pessoa 3)
+~~~mysql
+DELETE FROM pessoas WHERE pessoaid = 3;
+~~~
+
 
