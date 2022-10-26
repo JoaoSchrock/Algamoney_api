@@ -141,4 +141,19 @@ em todo o Brasil.
 ## Diagrama de Entidade Conceitual
 ![Screenshot_1](https://user-images.githubusercontent.com/101228590/192066833-451aa09b-f08a-440d-9e26-a6de79c42716.png)
 
+~~~mysql
+create database senai;
+use senai;
+CREATE TABLE pessoas (pessoaid int, pessoaNome varchar(255), pessoaSobrenome varchar(255));
+INSERT INTO pessoas (pessoaid, pessoaNome, pessoaSobrenome) values (1,"Joao","Schrock");
+SELECT * FROM pessoas;
+INSERT INTO pessoas (pessoaid, pessoaNome, pessoaSobrenome) values (2,"Gladson","Peres");
+INSERT INTO pessoas (pessoaid, pessoaNome, pessoaSobrenome) values (3,"Juan","Gaspar");
+INSERT INTO pessoas (pessoaid, pessoaNome, pessoaSobrenome) values (4,"puan","jaskar");
+SELECT * FROM pessoas WHERE pessoaid = 2;
+
+DELETE FROM pessoas WHERE pessoaid = 3;
+
+~~~
+
 
