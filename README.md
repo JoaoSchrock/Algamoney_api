@@ -97,7 +97,7 @@ O Web service efetua o processamento e envia os dados para a aplicação que req
 ```
 <hr>
 
-<div align="center">
+<div align="">
 
 ### ` Canais Para Estudo`
  <details><summary>🌐Canal</summary>
@@ -154,6 +154,19 @@ SELECT * FROM pessoas WHERE pessoaid = 2;
 
 DELETE FROM pessoas WHERE pessoaid = 3;
 
+~~~
+
+
+~~~mysql
+create database aeroporto;
+use aeroporto;
+
+CREATE TABLE companhia (companhiaid int, companhiaNome varchar(255));
+CREATE TABLE aviao (aviaoid int, aviaoNome varchar(255));
+CREATE TABLE piloto (pilotoid int, pilotoNome varchar(255));
+INSERT INTO aviao (aviaoid, aviaoNome) values ('1', 'CavaloQueMorde');
+INSERT INTO companhia (companhiaid, companhiaNome) values ('1', 'Aeroporto');
+INSERT INTO piloto (pilotoid, pilotoNome) values ('1', 'Joao Schrock');
 ~~~
 
 
